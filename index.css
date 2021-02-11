@@ -1,0 +1,117 @@
+body{
+    background-color: #330033;
+    background-image: url("Endless-Constellation.svg");
+    overflow-x: hidden;
+}
+#clear{
+    clear: left;
+}
+img{
+    border: white .3rem groove;
+}
+h3{
+    position: relative;
+    color:white;
+    font-size: 1.8rem;
+    text-align: center;
+    bottom: 3rem;
+    left: 7rem;
+}
+#pics{
+    width: 25%;
+    float: left;
+    left: 1rem;
+}
+h4{
+    text-align: center;
+    color: white;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h5{
+    position: relative;
+    color: white;
+    left:4.8rem;
+    font-size: 1.5rem;
+}
+table{
+    position: relative;
+    float: right;
+    clear: left;
+    bottom: 15rem;
+    right: 50rem;
+}
+h6{
+    position: relative;
+    color: white;
+    left:4.8rem;
+    font-size: 1.2rem;
+}
+#h6{
+    position: relative;
+    color: white;
+    left:0rem;
+    font-size: 1.2rem;
+}
+#bio{
+    position: relative;
+    color: white;
+    left:3.2rem;
+    font-size: 1.2rem;
+}
+#clear{
+margin-left: auto;
+margin-right: auto;
+}
+#profile{
+    position: relative;
+    left: .2rem;
+    top: .3rem;
+}
+#right{
+    position: relative;
+    left: 22rem;
+    bottom: 3rem;
+    width: 10rem;
+}
+#right1{
+    position: relative;
+    left: 40rem;
+    bottom: 3rem;
+    width: 10rem;
+}
+#right2{
+    position: relative;
+    left: 30rem;
+    border: white .2rem groove;
+    width: 25rem;
+    text-align: center;
+    bottom: 2rem;
+}
+#right3{
+    position: relative;
+    left: 60rem;
+    border: white .2rem groove;
+    width: 30rem;
+    text-align: center;
+    bottom: 4.7rem;
+}
+a{
+    color: white;
+}
+h2{
+    color: white;
+}
+#wide{
+    width: 20rem;
+}
+#footer{
+    position: relative;
+    float: none;
+    clear: none;
+    bottom: 0rem;
+    right: 0rem;
+    width: 100rem;
+}
