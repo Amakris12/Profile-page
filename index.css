@@ -105,7 +105,7 @@ h2{
     color: white;
 }
 #wide{
-    width: 20rem;
+    width: 23rem;
 }
 #footer{
     position: relative;
@@ -113,5 +113,27 @@ h2{
     clear: none;
     bottom: 0rem;
     right: 0rem;
-    width: 100rem;
+    left: .3rem;
+    width: 95rem;
+}
+#story{
+    position: relative;
+    width: 10rem;
+    height: 10rem;
+    left: 2.5rem;
+    bottom: 5rem;
+}
+#noborder{
+    border: none;
+}
+#down{
+    position: relative;
+    top: 5rem;
+    text-decoration: underline;
+}
+#story2{
+    position: relative;
+    left: 20rem;
+    bottom: 3.7rem;
+    width: 15rem;
 }
